@@ -299,5 +299,8 @@ h3{
         background: gray;
         border-radius: 50px;
     }
+    .arrow{
+        visibility: hidden;
+    }
 }
 
